@@ -1,0 +1,3 @@
+﻿  WebScrapping.cpp
+C:\Users\brosi\source\repos\WebScrapping\WebScrapping\WebScrapping.cpp(101): warning C4715: 'find_attribute': not all control paths return a value
+  WebScrapping.vcxproj -> C:\Users\brosi\source\repos\WebScrapping\x64\Debug\WebScrapping.exe
