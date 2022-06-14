@@ -13,7 +13,8 @@ using namespace cpr;
 ofstream writeText("links.txt");
 string extract_html_page()
 {
-    Url url = Url{ "https://www.webscrapingapi.com/c-web-scraping/" };
+    //Put any link
+    Url url = Url{ "" };
     Response response = Get(url);
     return response.text;
 }
